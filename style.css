@@ -1,0 +1,59 @@
+body{
+    background-color: #293462;
+}
+.report{
+    width: 700px;
+    height: 468px;
+    background-color: #EC9B3B;
+    margin: auto;
+    margin-top: 30px;
+    direction: rtl;
+    position: relative;
+}
+.date{
+    text-align: right;
+    font-size: 40px;
+    margin: 10px;
+}
+span{
+    font-size: 40px;
+    
+}
+h3{
+    margin: 0 20px;
+    display: inline-block;
+}
+select{
+    width: 70px;
+}
+.text{
+    position: absolute;
+    width: 325px;
+    height: 317px;
+    left: 49px;
+    top: 45px;
+    background-color: #F24C4C;
+}
+textarea{
+    margin-top: 20px;
+    margin-right: 28px;
+    width: 260px;
+    height: 246px;
+}
+h3{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+h1{
+    text-align: center;
+    color: #F7D716;
+}
+input{
+    width: 242px;
+    height: 50px;
+    font-size: 24px;
+    background-color: #F7D716;
+    border-radius: 51px;
+    margin-top: 40px;
+    margin-right: 200px;
+}
