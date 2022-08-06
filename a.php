@@ -1,6 +1,6 @@
 <?php
+require "load.php";
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -39,6 +39,5 @@
         
         <input type="submit" value="ثبت گزارش" name="submitreport">
     </div>
-
 </body>
 </html>
